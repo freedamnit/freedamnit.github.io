@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.livcar.com/install/topgear.ipa</string>
+					<string>http://app.livcar.com/install/hotgearTieZhi.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.livcar.topgearPro.fixios8</string>
+				<string>com.livcar.hotgearTieZhi.fixios8</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>卡卡摩尔</string>
+				<string>梦车厂(贴纸)</string>
 			</dict>
 		</dict>
 	</array>
